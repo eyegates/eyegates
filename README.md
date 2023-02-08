@@ -48,7 +48,7 @@ I'm a software developer since 15 years. I have worked with .Net Framework and C
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
                 <p align="left">
