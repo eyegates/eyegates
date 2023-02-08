@@ -6,12 +6,14 @@ Sofware Engineer / Blockchain Engineer
 
 I'm a software developer since 15 years. I have worked with .Net Framework and C# for the majority of my career. For the past five years I started to explore other languages and framework like Node.js, ReactJs with TypeScript, Rust and Solidity. I have been passionate about web development since the beginning of my career, especially on the backend side. I enjoy building applications that can scale using efficient system design and design patterns. I also like Agile methodology and Behavior Driven Development. At the moment, my focus is on Solidity and Blockchain development. I have developed and deployed Smart Contracts (ERC20 Token, NFT Drop, NFT Marketplaces, Lending/Borrowing platform) On Ethereum, Binance Smart Chain and Polygon. I use Truffle, Hardhat, web3.js and ethers.js I believe that NFTs as we use it today represents only 1% of its potential in terms of use cases. I personally work on side projects leveraging NFTs potential and it is crazy. I work intensively with CI/CD like GitHub, Azure Devops. I love to learn new topic and I am open minded. Not knowing something is completely normal for me and I’m never afraid when I face something new.
 
-*   🌍  I'm based in Paris
-*   ✉️  You can contact me at [yannick.eyeghe@gmail.com](mailto:yannick.eyeghe@gmail.com)
-*   🧠  I'm learning Rust, Go, NestJs
-*   ⚡  I am also a sewist. I particularly love tailoring. It is really similar to software craftsmanship.
+* 🌍  I'm based in Paris
+* ✉️  You can contact me at [yannick.eyeghe@gmail.com](mailto:yannick.eyeghe@gmail.com)
+* 🧠  I'm learning Rust, Go, NestJs
+* ⚡  I am also a sewist. I particularly love tailoring. It is really similar to software craftsmanship.
 
-### Skills 
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -47,14 +49,16 @@ I'm a software developer since 15 years. I have worked with .Net Framework and C
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-  <a href="https://www.github.com/eyegates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-  <a href="https://www.linkedin.com/in/yannick-eyeghe-9211b934" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/eyegates"><img src="https://github-readme-stats.vercel.app/api?username=eyegates&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eyegates's GitHub stats" /></a><a href="https://github.com/eyegates" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyegates&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/eyegates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yannick-eyeghe-9211b934" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/eyegates"><img src="https://github-readme-stats.vercel.app/api?username=eyegates&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eyegates's GitHub stats" /></a>
+
+<a href="https://github.com/eyegates" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyegates&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
